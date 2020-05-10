@@ -13,5 +13,7 @@
     <string name="facebook_app_id">225573175336701</string>
     <string name="fb_login_protocol_scheme">fb225573175336701</string>
     <string name="title_activity_main">Map</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
 
 </resources>
